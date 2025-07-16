@@ -1,5 +1,7 @@
 ## Inventory Management Dashboard
 
+<img width="1920" height="1118" alt="Screenshot 2025-07-16 at 15 23 42" src="https://github.com/user-attachments/assets/48779cb3-843b-4e33-8bcb-fd7a9a2a96e3" />
+
 🚀 Full-stack Inventory Management Dashboard built from scratch to deepen understanding of full-stack development and direct AWS hosting, crafted from a Product Manager’s perspective.
 
 As a Product Manager, I wanted to explore what it takes to go full-stack and host directly on AWS instead of using platforms like Vercel, so I designed, built, and deployed this complete system.
